@@ -20,4 +20,4 @@ Conclusão do desafio DIO
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+[![Alt text](./passwd.png "Optional title")](https://github.com/Joonds/Desafio-DIO/blob/main/Captura%20de%20tela%202026-02-26%20135955.png?raw=true)
